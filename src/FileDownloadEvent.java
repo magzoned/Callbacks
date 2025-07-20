@@ -1,3 +1,7 @@
+/**
+ * Класс - событие(скачка чего-либо)
+ */
+
 public class FileDownloadEvent extends Event{
     public FileDownloadEvent(){
         super("Download");

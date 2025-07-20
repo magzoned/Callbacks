@@ -1,3 +1,8 @@
+/**
+ *Абстрактный класс служащий шаблоном для разных ивентов
+ */
+
+
 public abstract class Event {
     private String type;
 

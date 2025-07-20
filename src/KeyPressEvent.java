@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ * Класс -  событие (нажатие кнопки)
+ */
+
 public class KeyPressEvent extends Event {
 
 

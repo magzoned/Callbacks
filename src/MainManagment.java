@@ -1,3 +1,7 @@
+/**
+ * Основной класс показывающий как работает консольное приложение(callback)
+ */
+
 public class MainManagment {
     public static void main(String[] args) {
         EventDispatcher dispatcher = new EventDispatcher();

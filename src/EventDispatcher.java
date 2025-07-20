@@ -1,3 +1,7 @@
+/**
+ * Класс для управления событиями.
+ * Поддерживает подписку на события и их рассылку.
+ */
 
 public class EventDispatcher {
     private EventListener[] clickListeners = new EventListener[10];
