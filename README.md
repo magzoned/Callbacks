@@ -1,1 +1,1 @@
-wark with java callbacks interface
+work with java callbacks interface
